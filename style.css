@@ -60,8 +60,8 @@ legend {
 .botoes input[type="submit"] {
     padding: 10px 30px;
     font-size: 16px;
-    background-color: teal;
-    color: white;
+    background-color: rgb(33, 103, 224);
+    color: rgb(150, 148, 148);
     border: none;
     border-radius: 6px;
     cursor: pointer;
